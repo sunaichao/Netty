@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/example03/example03.iml" filepath="$PROJECT_DIR$/.idea/modules/example03/example03.iml" group="example03" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/example03/example03_main.iml" filepath="$PROJECT_DIR$/.idea/modules/example03/example03_main.iml" group="example03" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/example03/example03_test.iml" filepath="$PROJECT_DIR$/.idea/modules/example03/example03_test.iml" group="example03" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty-example.iml" filepath="$PROJECT_DIR$/.idea/modules/netty-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty-example_main.iml" filepath="$PROJECT_DIR$/.idea/modules/netty-example_main.iml" group="netty-example" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty-example_test.iml" filepath="$PROJECT_DIR$/.idea/modules/netty-example_test.iml" group="netty-example" />
+    </modules>
+  </component>
+</project>
