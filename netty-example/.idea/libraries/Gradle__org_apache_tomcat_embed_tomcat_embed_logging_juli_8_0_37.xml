@@ -2,10 +2,12 @@
   <library name="Gradle: org.apache.tomcat.embed:tomcat-embed-logging-juli:8.0.37">
     <CLASSES>
       <root url="jar://D:/JGradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-logging-juli/8.0.37/68006b8fc684c5edb9caeb55ba86147fe091ea27/tomcat-embed-logging-juli-8.0.37.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-logging-juli/8.0.37/68006b8fc684c5edb9caeb55ba86147fe091ea27/tomcat-embed-logging-juli-8.0.37.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://D:/JGradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-logging-juli/8.0.37/238ab31afcd88d43f0b881c1ba1934c438ca6527/tomcat-embed-logging-juli-8.0.37-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-logging-juli/8.0.37/238ab31afcd88d43f0b881c1ba1934c438ca6527/tomcat-embed-logging-juli-8.0.37-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

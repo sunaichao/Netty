@@ -2,10 +2,12 @@
   <library name="Gradle: org.apache.tomcat.embed:tomcat-embed-core:8.0.37">
     <CLASSES>
       <root url="jar://D:/JGradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.0.37/5b88395a68f17424476b7505a41179fba21cf904/tomcat-embed-core-8.0.37.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.0.37/5b88395a68f17424476b7505a41179fba21cf904/tomcat-embed-core-8.0.37.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://D:/JGradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.0.37/bad64af16f7719127630ec49526f701e1a2f1ff1/tomcat-embed-core-8.0.37-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.0.37/bad64af16f7719127630ec49526f701e1a2f1ff1/tomcat-embed-core-8.0.37-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

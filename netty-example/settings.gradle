@@ -1,3 +1,4 @@
 rootProject.name = 'netty-example'
 include 'example03'
+include 'example04'
 

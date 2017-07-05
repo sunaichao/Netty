@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="example03_main" target="1.5" />
       <module name="example03_test" target="1.5" />
+      <module name="example04_main" target="1.5" />
+      <module name="example04_test" target="1.5" />
       <module name="netty-example_main" target="1.5" />
       <module name="netty-example_test" target="1.5" />
     </bytecodeTargetLevel>
