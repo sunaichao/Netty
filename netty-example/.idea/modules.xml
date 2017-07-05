@@ -8,6 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/example04/example04.iml" filepath="$PROJECT_DIR$/.idea/modules/example04/example04.iml" group="example04" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/example04/example04_main.iml" filepath="$PROJECT_DIR$/.idea/modules/example04/example04_main.iml" group="example04" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/example04/example04_test.iml" filepath="$PROJECT_DIR$/.idea/modules/example04/example04_test.iml" group="example04" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/example05/example05.iml" filepath="$PROJECT_DIR$/.idea/modules/example05/example05.iml" group="example05" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/example05/example05_main.iml" filepath="$PROJECT_DIR$/.idea/modules/example05/example05_main.iml" group="example05" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/example05/example05_test.iml" filepath="$PROJECT_DIR$/.idea/modules/example05/example05_test.iml" group="example05" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty-example.iml" filepath="$PROJECT_DIR$/.idea/modules/netty-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty-example_main.iml" filepath="$PROJECT_DIR$/.idea/modules/netty-example_main.iml" group="netty-example" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty-example_test.iml" filepath="$PROJECT_DIR$/.idea/modules/netty-example_test.iml" group="netty-example" />
